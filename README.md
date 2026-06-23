@@ -27,5 +27,5 @@ Un simulatore interattivo in Python per il calcolo geometrico e la visualizzazio
 
 ##  Concetti Matematici Applicati
 Il simulatore non usa formule standard per il perimetro, ma approssima l'integrale della funzione dell'eccentricità:
-$$E(e) = \int_{0}^{\pi/2} \sqrt{1 - e^2 \sin^2(t)} \, dt$$
+$$E(e) = \int_{0}^{\pi/2} \sqrt{1 - e^2 \sin^2(t)} \ dt$$
 Divisore della curva in segmenti ad alta precisione per aggirare l'assenza di una formula elementare per il perimetro dell'ellisse.
