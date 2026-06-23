@@ -1,6 +1,5 @@
 # Ellipse-Python-calculator
 An interactive and precise ellipse perimeter and surface calculator 
-#  Ellipse Simulator
 
 Un simulatore interattivo in Python per il calcolo geometrico e la visualizzazione grafica di un'ellisse in tempo reale.
 
